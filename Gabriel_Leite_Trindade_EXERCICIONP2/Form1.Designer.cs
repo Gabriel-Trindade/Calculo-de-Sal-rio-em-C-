@@ -156,6 +156,7 @@
             // 
             // txtTaxes
             // 
+            this.txtTaxes.Enabled = false;
             this.txtTaxes.Location = new System.Drawing.Point(208, 220);
             this.txtTaxes.Name = "txtTaxes";
             this.txtTaxes.Size = new System.Drawing.Size(100, 23);
